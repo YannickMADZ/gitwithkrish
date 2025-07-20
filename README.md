@@ -1,6 +1,6 @@
 # Projet de Classification : [Nom du Projet]
 
-**Objectif** : Prédire **[variable cible]** (ex: "défaut de paiement", "catégorie de produit") à partir de données structurées en utilisant des algorithmes de Machine Learning.
+**Objectif** : Prédire **[loan default payment]** (ex: "défaut de paiement", "catégorie de produit") à partir de données structurées en utilisant des algorithmes de Machine Learning.
 
 ## Sommaire
 - [Jeu de données](#-jeu-de-données)
